@@ -420,7 +420,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"BitriseTest/Preview Content\"";
-				DEVELOPMENT_TEAM = 72SA8V3WYL;
+				DEVELOPMENT_TEAM = 4U236NRPD8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BitriseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -428,7 +428,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.iosBitriseTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naveennazimudeen.iosBitriseTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -444,7 +444,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"BitriseTest/Preview Content\"";
-				DEVELOPMENT_TEAM = 72SA8V3WYL;
+				DEVELOPMENT_TEAM = 4U236NRPD8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BitriseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -452,7 +452,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bitrise.iosBitriseTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naveennazimudeen.iosBitriseTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
