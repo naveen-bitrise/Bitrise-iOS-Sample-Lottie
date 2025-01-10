@@ -1,6 +1,15 @@
 {
-  "originHash" : "6b3386dc9ff1f3a74f1534de9c41d47137eae0901cfe819ed442f1b241549359",
+  "originHash" : "6b26c6d7f094fc3b5dc98a4efdcab3a03483fab3e2320d8752084e0f4992358e",
   "pins" : [
+    {
+      "identity" : "fullstory-swift-package-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fullstorydev/fullstory-swift-package-ios",
+      "state" : {
+        "revision" : "9e2e21b58481e6cd809775aa572ef339692c68ea",
+        "version" : "1.55.0"
+      }
+    },
     {
       "identity" : "lottie-spm",
       "kind" : "remoteSourceControl",

@@ -7,6 +7,7 @@
 
 import SwiftUI
 import Lottie
+import FullStory
 
 
 struct ContentView: View {
